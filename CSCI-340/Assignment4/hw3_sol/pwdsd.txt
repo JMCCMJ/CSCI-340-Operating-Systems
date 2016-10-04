@@ -1,0 +1,16 @@
+>
+cat.txt
+hw3
+hw3.c
+hw3.o
+Makefile
+new 1.txt
+pwd1.txt
+pwdsd.txt
+pwd.txt
+shell.c
+shell.h
+shell.o
+sorted.txt
+test.txt
+text.txt

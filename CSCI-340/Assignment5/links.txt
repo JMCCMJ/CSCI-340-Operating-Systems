@@ -1,0 +1,11 @@
+Mutex Lock Code Examples from Oracle
+
+http://docs.oracle.com/cd/E19683-01/806-6867/sync-12/index.html
+
+Dead Lock Tutorial from Oracle
+
+http://docs.oracle.com/cd/E19205-01/820-0619/geosb/index.html
+
+Monte Carlo Video
+
+https://www.youtube.com/watch?v=VJTFfIqO4TU

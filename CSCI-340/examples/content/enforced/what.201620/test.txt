@@ -1,0 +1,6 @@
+Barack,obama
+other,bush
+bill,clinton
+george,bush
+ronald,reagan
+jimmy,carter

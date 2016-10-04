@@ -1,0 +1,6 @@
+total 24
+-rw-r--r-- 1 ftp   789 Feb 22  2015 redirtest.c
+-rw-rw-r-- 1 ftp  1371 Feb 23  2015 sigtest.c
+-rwxr-xr-x 1 root 7433 Feb 16 03:11 sigtest
+-rwxr-xr-x 1 root 6991 Feb 16 03:12 redirtest
+-rw-r----- 1 root    0 Feb 16 03:12 test.txt

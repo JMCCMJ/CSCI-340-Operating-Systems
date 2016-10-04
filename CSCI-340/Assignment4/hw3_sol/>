@@ -1,0 +1,12 @@
+total 84
+-rw------- 1 ftp    416 Mar  2  2015 Makefile
+-rw------- 1 ftp   1860 Feb 16 05:13 hw3.c
+-rw-r--r-- 1 root  5492 Feb 16 05:14 hw3.o
+-rw------- 1 ftp   5864 Feb 16 05:14 shell.h
+-rw-r--r-- 1 root   536 Feb 16 05:50 new 1.txt
+-rw-r--r-- 1 root     0 Feb 16 05:51 text.txt
+-rw------- 1 ftp  10184 Feb 16 05:58 shell.c
+-rw-r--r-- 1 root 15232 Feb 16 05:58 shell.o
+-rwxr-xr-x 1 root 20922 Feb 16 05:58 hw3
+-rw-r----- 1 root     0 Feb 16 05:59 test.txt
+-rw-r----- 1 root   495 Feb 16 05:59 >

@@ -1,0 +1,22 @@
+total 132
+-rw-r--r-- 1 root  5492 Feb 16 05:14 hw3.o
+-rw-r--r-- 1 root   536 Feb 16 05:50 new 1.txt
+-rw-r--r-- 1 root     0 Feb 16 05:51 text.txt
+-rw-r----- 1 root   495 Feb 16 05:59 >
+-rw-r----- 1 root     0 Feb 16 06:01 test.txt
+-rw-r----- 1 root     0 Feb 16 06:36 sorted.txt
+-rw-r--r-- 1 root     0 Feb 16 06:37 cat.txt
+-rw-r--r-- 1 root    48 Feb 16 06:38 pwd.txt
+-rw-r----- 1 root    48 Feb 16 06:38 pwd1.txt
+-rwxr-xr-x 1 root 20738 Feb 16 06:52 hw3
+-rw-r----- 1 root   125 Feb 16 06:55 pwdsd.txt
+-rw-r----- 1 root    48 Feb 16 06:56 sd
+-rw------- 1 ftp    416 Feb 16 07:00 Makefile
+-rw-r----- 1 root    48 Feb 16 07:02 jkad.txt
+-rw------- 1 ftp   1557 Feb 16 07:02 hw4.c
+-rw-r--r-- 1 root  4984 Feb 16 07:03 hw4.o
+-rw------- 1 ftp   9640 Feb 16 07:04 shell.c
+-rw------- 1 ftp   5821 Feb 16 07:04 shell.h
+-rw-r--r-- 1 root 14916 Feb 16 07:04 shell.o
+-rwxr-xr-x 1 root 20382 Feb 16 07:04 hw4
+-rw-r----- 1 root     0 Feb 16 07:04 haha.txt

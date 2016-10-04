@@ -1,0 +1,8 @@
+total 60
+-rwxr-xr-x 1 root root 15964 Feb  2 03:11 hw3
+-rw------- 1 ftp  ftp   1733 Feb  3  2016 hw3.c
+-rw-r--r-- 1 root root  4980 Feb  2 03:11 hw3.o
+-rw------- 1 ftp  ftp    413 Feb  2 03:10 Makefile
+-rw------- 1 ftp  ftp   6017 Feb  3  2016 shell.c
+-rw------- 1 ftp  ftp   5789 Feb 16  2015 shell.h
+-rw-r--r-- 1 root root  9628 Feb  2 03:11 shell.o

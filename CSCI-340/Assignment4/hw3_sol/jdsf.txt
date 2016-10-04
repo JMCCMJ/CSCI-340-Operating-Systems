@@ -1,0 +1,22 @@
+>
+cat.txt
+haha.txt
+hw3
+hw3.o
+hw4
+hw4.c
+hw4.o
+jdsf.txt
+jkad.txt
+Makefile
+new 1.txt
+pwd1.txt
+pwdsd.txt
+pwd.txt
+sd
+shell.c
+shell.h
+shell.o
+sorted.txt
+test.txt
+text.txt
