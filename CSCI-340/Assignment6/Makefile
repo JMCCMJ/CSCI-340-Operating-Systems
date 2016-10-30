@@ -3,7 +3,7 @@ CFLAGS=-c -O -Wall -g -std=gnu90
 
 all: hw6
 
-hw6: mcsim.o hw6.o
+hw6: dpsim.o hw6.o
 	$(CC) dpsim.o hw6.o -o hw6 -lpthread -lrt
 
 dpsim.o: dpsim.c
