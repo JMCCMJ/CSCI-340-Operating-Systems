@@ -58,6 +58,10 @@ void* th_main( void* th_main_args ) {
 			pthread_exit(0);
 		}
 		**/
+		
+		//NEW DEADLOCK TEST
+		//Much more accurate
+		
 		deadlockCheck = 0;
 		if((chopsticks[0]==0&&chopsticks[1]==1&&chopsticks[2]==2&&chopsticks[3]==3&&chopsticks[4]==4)&&chopsticks[0]!=-1){
 			for(i=0;i<10;i++){
@@ -83,28 +87,7 @@ void* th_main( void* th_main_args ) {
 		
 		
 		
-		/**
-		deadlockCheck = 0;
-		if((chopsticks[0]==0&&chopsticks[1]==1&&chopsticks[2]==2&&chopsticks[3]==3&&chopsticks[4]==4)&&chopsticks[0]!=-1{
-			for(i=0;i<10;i++){
-				if((chopsticks[0]==0&&chopsticks[1]==1&&chopsticks[2]==2&&chopsticks[3]==3&&chopsticks[4]==4)&&chopsticks[0]!=-1{
-					deadlockCheck++;
-				}
-				if(deadlockCheck == 10){
-					printf("NEWsadasdasdadan");
-					printf("Deadlock condition (0,1,2,3,4) ... terminating\n");
-				}
-				for(i=0;i<NUM_CHOPSTICKS;i++){
-				
-					pthread_kill(&philosphers[i],1);		
-				}
-				pthread_exit(0);
-			}
-				
-			
-			
-		}
-	**/
+		
 	}
 	
 	
